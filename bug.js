@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the provided data is not in the expected format. For example, if you're trying to write data to the database, but the data is not in the correct format (e.g., not a JSON object or array), the SDK may throw an error. This can be difficult to debug because the error message may not always be clear.
